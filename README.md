@@ -5,8 +5,8 @@
 
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=linux&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=C82D34)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=C82D34)
-![](https://img.shields.io/badge/Code-Yocto-informational?style=flat&logo=linux&logoColor=white&color=C82D34)
+![](https://img.shields.io/badge/Build-Make-informational?style=flat&logo=cmake&logoColor=white&color=C82D34)
+![](https://img.shields.io/badge/Build-Yocto-informational?style=flat&logo=Windows%20Terminal&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=C82D34)
