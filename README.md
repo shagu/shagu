@@ -1,6 +1,6 @@
 ![](header.png)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=C82D34)
+![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=linux&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Editor-vim-informational?style=flat&logo=vim&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=C82D34)
