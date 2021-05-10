@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=C82D34)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=C82D34)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/License-MIT-informational?style=flat&logo=license&logoColor=white&color=C82D34)
 ![](https://img.shields.io/badge/License-MIT-informational?style=flat&logo=license&logoColor=white&color=C82D34)
 
